@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="profile_photo_desc">Profile Photo</string>
+    <string name="full_name">Ridha Ahmad Firdaus</string>
+    <string name="role">Mobile Developer</string>
+    <string name="phone_number_desc">Phone Number</string>
+    <string name="website_desc">Website</string>
+    <string name="email_desc">Email</string>
+    <string name="phone_number">+62 812 2007 9559</string>
+    <string name="website">ridhaaf.github.io</string>
+    <string name="email">ridhaaf@gmail.com</string>
+</resources>
